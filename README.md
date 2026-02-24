@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science (Python & R)
 - 💞️ I’m looking to collaborate on Anyhting
 - 📫 How to reach me taha.zaamoun@um6p.ma
-- 😄 Pronouns: He/Him/Py/R/C
+- 😄 Pronouns: I/am/a/Surgeon
 - ⚡ Fun fact: I'm a Musician 🎸
 
 <!---
